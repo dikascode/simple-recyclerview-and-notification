@@ -21,7 +21,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity : AppCompatActivity() {
     private val simpleNote =
-        arrayListOf(SimpleNote(1, "Good day"), SimpleNote(2, "What a day to code"))
+        arrayListOf(SimpleNote(1, "Good day students"), SimpleNote(2, "Excited to write your first notification code?"))
     private val recyclerViewAdapter by lazy { RecyclerViewAdapter(simpleNote) }
     var snCount = simpleNote.size
 
