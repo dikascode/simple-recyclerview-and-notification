@@ -2,4 +2,5 @@
     <string name="app_name">Simple RecyclerView Notification</string>
     <string name="sn">1</string>
     <string name="note">Note</string>
+    <string name="title_note">Title Note</string>
 </resources>
