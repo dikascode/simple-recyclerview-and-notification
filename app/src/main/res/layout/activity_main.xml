@@ -11,9 +11,9 @@
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:maxHeight="500dp"
         android:layout_margin="10dp"
         android:layout_weight="1"
+        android:maxHeight="500dp"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -24,8 +24,8 @@
         android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:gravity="bottom">
+        android:gravity="bottom"
+        android:padding="10dp">
 
         <EditText
             android:id="@+id/etNote"

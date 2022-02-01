@@ -3,4 +3,5 @@
     <string name="sn">1</string>
     <string name="note">Note</string>
     <string name="title_note">Title Note</string>
+    <string name="hello">Hello</string>
 </resources>
